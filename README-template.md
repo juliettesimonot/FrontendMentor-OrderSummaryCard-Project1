@@ -21,10 +21,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-<img src="screenshots/Screenshot-overview.jpg" alt=hover-state>
-<img src="screenshots/Hover-on-change.jpg" alt=hover-state>
-<img src="screenshots/Hover-on-proceed.jpg" alt=hover-state>
-<img src="screenshots/Hover-on-cancel.jpg" alt=hover-state>
+<img src="screenshots/Screenshot-overview.jpg" alt=project>
+<img src="screenshots/hover-on-change.jpg" alt=hover-state>
+<img src="screenshots/hover-on-proceed.jpg" alt=hover-state>
+<img src="screenshots/hover-on-cancel.jpg" alt=hover-state>
 
 ### Links
 
@@ -38,8 +38,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/juliettesimonot)
-- Twitter - [@yourusername](https://www.twitter.com/juliettesimonot)
+- Frontend Mentor - https://www.frontendmentor.io/profile/juliettesimonot
 
 
 ## Acknowledgments
