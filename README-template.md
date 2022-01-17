@@ -40,7 +40,6 @@ Users should be able to:
 
 - Frontend Mentor - https://www.frontendmentor.io/profile/juliettesimonot
 
-
 ## Acknowledgments
 
 Many thanks to FrontendMentor to set up this challenge and help me improve myself in development :)
