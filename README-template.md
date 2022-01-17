@@ -21,10 +21,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-<img src="screenshot/Screemshot-overview" alt=hover-state>
-<img src="screenshot/Hover-on-change" alt=hover-state>
-<img src="screenshot/Hover-on-proceed" alt=hover-state>
-<img src="screenshot/Hover-on-cancel" alt=hover-state>
+<img src="screenshots/Screenshot-overview.jpg" alt=hover-state>
+<img src="screenshots/Hover-on-change.jpg" alt=hover-state>
+<img src="screenshots/Hover-on-proceed.jpg" alt=hover-state>
+<img src="screenshots/Hover-on-cancel.jpg" alt=hover-state>
 
 ### Links
 
