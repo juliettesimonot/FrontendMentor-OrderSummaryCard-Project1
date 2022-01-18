@@ -78,6 +78,7 @@ p{
 	bottom: 110px;
 	margin: 0;
 	padding: 25px;
+	font-size: 13px;
 }
 
 #icon-m{
@@ -100,15 +101,17 @@ p{
 }
 
 #price2{
+	font-size: 15px;
 	position: relative;
-	bottom: 20px;
+	bottom: 5px;
 }
 
-h3{
+h2{
 	position: relative;
 	top: 10px;
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 700;
+	margin-bottom: 0;
 
 }
 
